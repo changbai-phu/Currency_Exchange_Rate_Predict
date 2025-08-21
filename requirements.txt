@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+yfinance
+statsmodels
+prophet
+tensorflow
+matplotlib
+sqlite3
+scikit-learn
